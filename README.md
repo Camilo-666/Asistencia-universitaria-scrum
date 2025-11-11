@@ -22,11 +22,10 @@ Desarrollar un sistema que permita:
 ├─ README.md
 ├─ RESULTADOS.md
 └─ docs/
-├─ 01-backlog.png
-├─ 02-sprint-board.png
-├─ 03-wiki-roles.png
-├─ 04-daily-scrum.png
-└─ 05-revision-sprint1.png
+├─ backlog.png
+├─ Sprint.png
+├─ Wiki.png
+├─ Revision Sprint.png
 
 > Las capturas en `docs/` evidencian: Backlog, tablero del Sprint 1, roles en Wiki, simulación Daily y retrospectiva.
 
