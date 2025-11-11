@@ -13,11 +13,10 @@ Periodo: 06–18 nov 2025
 - **Revisión y Retrospectiva** del Sprint 1 documentadas.
 
 > Evidencias en `docs/`:
-> - `01-backlog.png` — Backlog con 5 historias.
-> - `02-sprint-board.png` — Tablero del Sprint 1 con tareas en varias columnas.
-> - `03-wiki-roles.png` — Roles (PO, SM, Dev) en Wiki.
-> - `04-daily-scrum.png` — Simulación Daily.
-> - `05-revision-sprint1.png` — Retrospectiva del Sprint 1.
+> - `backlog.png` — Backlog con 5 historias.
+> - `Sprint.png` — Tablero del Sprint 1 con tareas en varias columnas.
+> - `Wiki.png` — Roles (PO, SM, Dev) en Wiki.
+> - `Revision Sprint.png` — Retrospectiva del Sprint 1.
 
 ---
 
